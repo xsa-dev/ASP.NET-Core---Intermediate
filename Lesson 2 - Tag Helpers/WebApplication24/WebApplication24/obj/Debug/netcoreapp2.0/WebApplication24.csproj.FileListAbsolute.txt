@@ -1,0 +1,12 @@
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 2 - Tag Helpers\WebApplication24\WebApplication24\bin\Debug\netcoreapp2.0\WebApplication24.deps.json
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 2 - Tag Helpers\WebApplication24\WebApplication24\bin\Debug\netcoreapp2.0\WebApplication24.runtimeconfig.json
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 2 - Tag Helpers\WebApplication24\WebApplication24\bin\Debug\netcoreapp2.0\WebApplication24.runtimeconfig.dev.json
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 2 - Tag Helpers\WebApplication24\WebApplication24\bin\Debug\netcoreapp2.0\WebApplication24.dll
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 2 - Tag Helpers\WebApplication24\WebApplication24\bin\Debug\netcoreapp2.0\WebApplication24.pdb
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 2 - Tag Helpers\WebApplication24\WebApplication24\obj\Debug\netcoreapp2.0\WebApplication24.csprojResolveAssemblyReference.cache
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 2 - Tag Helpers\WebApplication24\WebApplication24\obj\Debug\netcoreapp2.0\WebApplication24.csproj.CoreCompileInputs.cache
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 2 - Tag Helpers\WebApplication24\WebApplication24\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 2 - Tag Helpers\WebApplication24\WebApplication24\obj\Debug\netcoreapp2.0\WebApplication24.AssemblyInfoInputs.cache
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 2 - Tag Helpers\WebApplication24\WebApplication24\obj\Debug\netcoreapp2.0\WebApplication24.AssemblyInfo.cs
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 2 - Tag Helpers\WebApplication24\WebApplication24\obj\Debug\netcoreapp2.0\WebApplication24.dll
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 2 - Tag Helpers\WebApplication24\WebApplication24\obj\Debug\netcoreapp2.0\WebApplication24.pdb
