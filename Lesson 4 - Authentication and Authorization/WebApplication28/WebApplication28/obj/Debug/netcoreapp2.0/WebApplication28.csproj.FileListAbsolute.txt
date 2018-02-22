@@ -1,0 +1,12 @@
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 4 - Authentication and Authorization\WebApplication28\WebApplication28\bin\Debug\netcoreapp2.0\WebApplication28.deps.json
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 4 - Authentication and Authorization\WebApplication28\WebApplication28\bin\Debug\netcoreapp2.0\WebApplication28.runtimeconfig.json
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 4 - Authentication and Authorization\WebApplication28\WebApplication28\bin\Debug\netcoreapp2.0\WebApplication28.runtimeconfig.dev.json
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 4 - Authentication and Authorization\WebApplication28\WebApplication28\bin\Debug\netcoreapp2.0\WebApplication28.dll
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 4 - Authentication and Authorization\WebApplication28\WebApplication28\bin\Debug\netcoreapp2.0\WebApplication28.pdb
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 4 - Authentication and Authorization\WebApplication28\WebApplication28\obj\Debug\netcoreapp2.0\WebApplication28.csprojResolveAssemblyReference.cache
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 4 - Authentication and Authorization\WebApplication28\WebApplication28\obj\Debug\netcoreapp2.0\WebApplication28.csproj.CoreCompileInputs.cache
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 4 - Authentication and Authorization\WebApplication28\WebApplication28\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 4 - Authentication and Authorization\WebApplication28\WebApplication28\obj\Debug\netcoreapp2.0\WebApplication28.AssemblyInfoInputs.cache
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 4 - Authentication and Authorization\WebApplication28\WebApplication28\obj\Debug\netcoreapp2.0\WebApplication28.AssemblyInfo.cs
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 4 - Authentication and Authorization\WebApplication28\WebApplication28\obj\Debug\netcoreapp2.0\WebApplication28.dll
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 4 - Authentication and Authorization\WebApplication28\WebApplication28\obj\Debug\netcoreapp2.0\WebApplication28.pdb
