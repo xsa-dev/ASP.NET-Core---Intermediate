@@ -1,0 +1,12 @@
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 4 - Authentication and Authorization\WebApplicationAuthDemo\WebApplicationAuthDemo\bin\Debug\netcoreapp2.0\WebApplicationAuthDemo.deps.json
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 4 - Authentication and Authorization\WebApplicationAuthDemo\WebApplicationAuthDemo\bin\Debug\netcoreapp2.0\WebApplicationAuthDemo.runtimeconfig.json
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 4 - Authentication and Authorization\WebApplicationAuthDemo\WebApplicationAuthDemo\bin\Debug\netcoreapp2.0\WebApplicationAuthDemo.runtimeconfig.dev.json
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 4 - Authentication and Authorization\WebApplicationAuthDemo\WebApplicationAuthDemo\bin\Debug\netcoreapp2.0\WebApplicationAuthDemo.dll
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 4 - Authentication and Authorization\WebApplicationAuthDemo\WebApplicationAuthDemo\bin\Debug\netcoreapp2.0\WebApplicationAuthDemo.pdb
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 4 - Authentication and Authorization\WebApplicationAuthDemo\WebApplicationAuthDemo\obj\Debug\netcoreapp2.0\WebApplicationAuthDemo.csprojResolveAssemblyReference.cache
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 4 - Authentication and Authorization\WebApplicationAuthDemo\WebApplicationAuthDemo\obj\Debug\netcoreapp2.0\WebApplicationAuthDemo.csproj.CoreCompileInputs.cache
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 4 - Authentication and Authorization\WebApplicationAuthDemo\WebApplicationAuthDemo\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 4 - Authentication and Authorization\WebApplicationAuthDemo\WebApplicationAuthDemo\obj\Debug\netcoreapp2.0\WebApplicationAuthDemo.AssemblyInfoInputs.cache
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 4 - Authentication and Authorization\WebApplicationAuthDemo\WebApplicationAuthDemo\obj\Debug\netcoreapp2.0\WebApplicationAuthDemo.AssemblyInfo.cs
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 4 - Authentication and Authorization\WebApplicationAuthDemo\WebApplicationAuthDemo\obj\Debug\netcoreapp2.0\WebApplicationAuthDemo.dll
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 4 - Authentication and Authorization\WebApplicationAuthDemo\WebApplicationAuthDemo\obj\Debug\netcoreapp2.0\WebApplicationAuthDemo.pdb
