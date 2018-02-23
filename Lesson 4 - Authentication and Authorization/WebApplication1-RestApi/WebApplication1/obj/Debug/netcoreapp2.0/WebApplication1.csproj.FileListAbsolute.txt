@@ -1,0 +1,11 @@
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 4 - Authentication and Authorization\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.deps.json
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 4 - Authentication and Authorization\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.json
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 4 - Authentication and Authorization\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 4 - Authentication and Authorization\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.dll
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 4 - Authentication and Authorization\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.pdb
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 4 - Authentication and Authorization\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 4 - Authentication and Authorization\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 4 - Authentication and Authorization\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 4 - Authentication and Authorization\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 4 - Authentication and Authorization\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
+C:\Users\salek\source\repos\ASP.NET-Core---Intermediate\Lesson 4 - Authentication and Authorization\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb

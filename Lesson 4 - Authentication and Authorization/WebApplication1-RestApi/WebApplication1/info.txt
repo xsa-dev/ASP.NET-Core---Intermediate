@@ -1,0 +1,4 @@
+﻿CRUD
+Create -> Read -> Update -> Delete
+HTTP Verbs
+POST -> GET -> PUT -> DELETE
