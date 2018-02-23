@@ -1,0 +1,12 @@
+C:\Users\salek\source\repos\WebApplication29\WebApplication29
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=WebApplication29
+--content-root=C:\Users\salek\source\repos\WebApplication29\WebApplication29
+--file=C:\Users\salek\source\repos\WebApplication29\WebApplication29\Pages\About.cshtml
+--file=C:\Users\salek\source\repos\WebApplication29\WebApplication29\Pages\Contact.cshtml
+--file=C:\Users\salek\source\repos\WebApplication29\WebApplication29\Pages\Error.cshtml
+--file=C:\Users\salek\source\repos\WebApplication29\WebApplication29\Pages\Index.cshtml
+--file=C:\Users\salek\source\repos\WebApplication29\WebApplication29\Pages\_Layout.cshtml
+--file=C:\Users\salek\source\repos\WebApplication29\WebApplication29\Pages\_ValidationScriptsPartial.cshtml
+--file=C:\Users\salek\source\repos\WebApplication29\WebApplication29\Pages\_ViewImports.cshtml
+--file=C:\Users\salek\source\repos\WebApplication29\WebApplication29\Pages\_ViewStart.cshtml

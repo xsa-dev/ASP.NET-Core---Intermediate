@@ -1,0 +1,11 @@
+services:
+  webapplication29:
+    build:
+      context: C:\Users\salek\source\repos\WebApplication29
+      dockerfile: WebApplication29/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: webapplication29
+    ports:
+    - 80/tcp
+version: '3.0'

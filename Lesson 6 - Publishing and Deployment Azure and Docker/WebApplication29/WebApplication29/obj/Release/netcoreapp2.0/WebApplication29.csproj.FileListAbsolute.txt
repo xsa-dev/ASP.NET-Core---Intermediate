@@ -1,0 +1,11 @@
+C:\Users\salek\source\repos\WebApplication29\WebApplication29\bin\Release\netcoreapp2.0\WebApplication29.deps.json
+C:\Users\salek\source\repos\WebApplication29\WebApplication29\bin\Release\netcoreapp2.0\WebApplication29.runtimeconfig.json
+C:\Users\salek\source\repos\WebApplication29\WebApplication29\bin\Release\netcoreapp2.0\WebApplication29.runtimeconfig.dev.json
+C:\Users\salek\source\repos\WebApplication29\WebApplication29\bin\Release\netcoreapp2.0\WebApplication29.dll
+C:\Users\salek\source\repos\WebApplication29\WebApplication29\bin\Release\netcoreapp2.0\WebApplication29.pdb
+C:\Users\salek\source\repos\WebApplication29\WebApplication29\obj\Release\netcoreapp2.0\WebApplication29.csprojResolveAssemblyReference.cache
+C:\Users\salek\source\repos\WebApplication29\WebApplication29\obj\Release\netcoreapp2.0\WebApplication29.csproj.CoreCompileInputs.cache
+C:\Users\salek\source\repos\WebApplication29\WebApplication29\obj\Release\netcoreapp2.0\WebApplication29.AssemblyInfoInputs.cache
+C:\Users\salek\source\repos\WebApplication29\WebApplication29\obj\Release\netcoreapp2.0\WebApplication29.AssemblyInfo.cs
+C:\Users\salek\source\repos\WebApplication29\WebApplication29\obj\Release\netcoreapp2.0\WebApplication29.dll
+C:\Users\salek\source\repos\WebApplication29\WebApplication29\obj\Release\netcoreapp2.0\WebApplication29.pdb
